@@ -24,26 +24,8 @@ I am a self-taught programming student, currently focused on **C++ and game deve
 * C / C++ (in progress)
 * Git / GitHub
 * Cloudflare
-
+  
 ---
-
-## 📚 Currently Studying
-
-* Game development with **C++**
-* Use of libraries such as **Raylib**
-* Backend fundamentals (future focus on Go)
-
----
-
-## 🎯 Future Interests
-
-* Go (main backend focus)
-* Kotlin
-* SQL
-* Backend architecture and systems
-
----
-
 ## 🌐 Projects:
 
 ### 🌐 Laços Profanos (Profane Bonds)
