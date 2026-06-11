@@ -1,8 +1,6 @@
 ## 🚀 About Me
 
-I am **Eduarda Victoria**, better known as **Wahi (wahipogo)**.
-I am a self-taught programming student, currently focused on **C++ and game development**.
-
+I'm **Eduarda Victoria**, better known as **Wahi (wahipogo)**.
 * 🎮 Currently studying **C++ with a focus on game development**
 * 🧠 Learning in a self-taught way
 * 🧩 Exploring programming logic and software fundamentals
