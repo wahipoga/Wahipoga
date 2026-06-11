@@ -48,8 +48,6 @@ I am a self-taught programming student, currently focused on **C++ and game deve
 
 ### 🌐 Laços Profanos (Profane Bonds)
 
-🔗
-
 **Laços Profanos** is an independent brand based on a fictional universe, created and managed by me.
 
 I am responsible for developing the website, which uses front-end technologies as part of an experimental and learning project.
