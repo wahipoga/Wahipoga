@@ -12,7 +12,7 @@ I am a self-taught programming student, currently focused on **C++ and game deve
 **📎 Contact:**
 
 * 🌐 Portfolio: [https://github.com/wahipoga/portfolio/](https://github.com/wahipoga/portfolio/)
-* 🔗 Social media: [https://lacosprofanos.com.br/wahi]](https://lacosprofanos.com.br/wahi)
+* 🔗 Social media: [https://lacosprofanos.com.br/wahi](https://lacosprofanos.com.br/wahi)
 * 📧 Email: [wahipoga@gmail.com](mailto:wahipoga@gmail.com)
 
 ---
