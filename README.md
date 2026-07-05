@@ -9,7 +9,7 @@ I'm **Eduarda Victoria**, better known as **Wahi (wahipogo)**.
 
 **📎 Contact:**
 
-* 🌐 Portfolio: [https://github.com/wahipoga/portfolio/](https://github.com/wahipoga/portfolio/)
+* 🌐 Portfolio: [https://github.com/wahipoga/](https://github.com/wahipoga/)
 * 🔗 Social media: [https://lacosprofanos.com.br/wahi](https://lacosprofanos.com.br/wahi)
 * 📧 Email: [wahipoga@gmail.com](mailto:wahipoga@gmail.com)
 
